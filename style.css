@@ -1,0 +1,38 @@
+
+.car{
+    width:200px;
+    height:200px;
+    background-image: url("images/car-clock.png");
+    background-position: center;
+    background-size: cover;
+}
+
+
+#one{
+    position: absolute;
+    left:239px;
+    top:8px;
+}
+#seven{
+    position: absolute;
+    rotate: 270deg;
+    display: none;
+}
+#five{
+    position: absolute;
+    display:none;
+    rotate: 270deg;
+}
+#three{
+    position: absolute;
+    right:23%;
+    bottom:41%;
+    rotate: 270deg;
+    display:none;
+
+}
+
+
+.number{
+    margin-top: 100px;
+}
